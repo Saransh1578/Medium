@@ -1,0 +1,10 @@
+name = "backend"
+main = "src/index.ts"
+compatibility_date = "2024-11-26"
+
+
+
+ [vars]
+ DATABASE_URL=""
+
+ JWT_SECRET=""
